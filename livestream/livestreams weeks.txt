@@ -1,0 +1,102 @@
+week 1:
+	Forritun í C++ 2022 - kynning námskeiðs: 
+		video:		https://youtu.be/5ddFL9SGxHc
+		discord:	
+			discord 10,01,2022.png
+	
+week 2:	
+	Forritun í C++ 2022 - fylki, strengir og skrár:
+		spurning:
+			sér spurninguna mína: 			https://youtu.be/LGg4LBLMv5A?t=6099 
+			spurninginn mín: discord  		17,01,2022 v8.png
+			svörun á spurninginni minni:	https://youtu.be/LGg4LBLMv5A?t=6176
+		discord: 
+			discord  17,01,2022 v1.png
+			discord  17,01,2022 v2.png
+			discord  17,01,2022 v3.png
+			discord  17,01,2022 v4.png
+			discord  17,01,2022 v5.png
+			discord  17,01,2022 v6.png
+			discord  17,01,2022 v7.png
+			discord  17,01,2022 v8.png
+		youtube:
+			youtube 17,01,22.png
+			
+week 3:
+	Forritun í C++ 2022 - .h, .cpp, klasar, reference: 
+		video: https://youtu.be/qRPqdRoHB5Y
+		discord:
+			discord  24,01,2022 v1.png
+			discord  24,01,2022 v2.png
+			
+week 7:
+	Forritun í C++ 2022 - PA3 post mortem og umræður um efni námskeiðs: 
+		spurning:
+			spurning spurð og svarað: https://youtu.be/4GFEQiSBpEI?t=2376
+			spurning: "hvað er auto"
+		discord:
+			discord  25,02,2022.png
+
+week 8:
+	Forritun í C++ 2022 - Erfðir:
+		video: https://youtu.be/XYSVaJlcWfM
+		discord:
+			discord 28,02,2022.png
+		youtube: 
+			youtube 28,02,2022
+			
+week 9:
+	Forritun í C++ 2022 - PA4 spjall, exceptions, debugging:
+		video: https://youtu.be/hROyTQczdvM
+		youtube:
+			youtube 07,03,22 v1.png "ekki svarað"
+	Forritun í C++ 2022 - Makefile, dll libraries, PA5 spjall:
+		video: https://youtu.be/9UPCBM4CkSI
+		youtube:
+			youtube 07,03,22 v2.png: "ekki svarað"
+
+week 10:
+	Forritun í C++ 2022 - Python modules, PA5 spjall:
+		video: https://youtu.be/B5tK1bB-6ys
+		spurning:
+			spurning: 
+				youtube 14,03,22 v1.png
+				'af hverju er rauð lína undir #include "python.h"?'
+			spurning svarað: https://youtu.be/B5tK1bB-6ys?t=5356
+		spurning:
+			spurning:
+				youtube 14,03,22 v1.png
+				'why code a python module in c++?'
+			spurning svarað: "hálfgert aðeins seinna og síðasta"
+		youtube:
+			youtube 14,03,22 v1.png
+			youtube 14,03,22 v1.png
+	Forritun í C++ 2022 - Function pointers, functors:
+		video: https://youtu.be/rKq91NZOlP8
+		spurning:
+			spurning:
+				youtube 14,03,22 v3.png
+				'what about funcs that take funcs?'
+			spurning svarað: https://youtu.be/rKq91NZOlP8
+			note: 
+				með þessari spuringu breyttist live streamið mikið (held ég (ég er ekki viss hvernig það myndi vera ef ég hafði ekki spurt þessa spuringu))
+				með þessu meina ég að að hann mun nota föll sem taka in föll mikið restina af live streaminu
+		spurning:
+			spurning:
+				youtube 14,03,22 v4.png
+				'að senda in fall er gott fyrir fileter á lista?'
+			spuringu svarað: https://youtu.be/rKq91NZOlP8?t=2767
+		
+week 11:
+	none
+
+week 12:
+	Forritun í C++ 2022 - course summary and exam Q&A:
+		video: https://youtu.be/9UE1EDVb_gg
+		note:
+			ég basicly spurði svo margar spurningar að þetta myndi vera of langt að segja þær allar.
+		youtube:
+			youtube 01,04,22 v1.png
+			youtube 01,04,22 v2.png
+			
+		
