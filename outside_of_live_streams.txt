@@ -1,4 +1,4 @@
-# piaza:
+piaza:
 	array of char pointers:
 		link: https://piazza.com/class/kxq691ix7zr38t?cid=51
 	segmentation fault when doing part b:
